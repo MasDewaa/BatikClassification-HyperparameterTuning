@@ -9,6 +9,9 @@ TODO :
 2. Fast API
 3. Docker setup and deploy
 
+Sementara : 
+1. Convert into TFLite, next into Fast API + Docker
+
 | **Aspek** | **Deskripsi** |
 |----------|---------------|
 | **Dataset** | [Mendeley Data: Batik Nitik 960](https://data.mendeley.com/datasets/sgh484jxzy/3) + [Mendeley Data : Batik Nitik Sarimbit 120](https://data.mendeley.com/datasets/cx5sr2dgrr/1) Grouping 2 dataset |
